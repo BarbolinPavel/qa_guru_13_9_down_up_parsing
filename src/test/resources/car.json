@@ -1,0 +1,13 @@
+{
+  "car": [{"name":"honda","model":"civic"}],
+  "year": "2006",
+  "mileage": "200000",
+  "body": "sedan",
+  "color": "black",
+  "luke": "true",
+  "consumption": {
+    "city": 8.7,
+    "mixed": 6.6,
+    "track": 5.5
+  }
+}
